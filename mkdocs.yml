@@ -10,8 +10,8 @@ theme:
   favicon: assets/images/uw_logo_2.svg
 
 # Repository
-repo_name: sib-swiss/course_website_template
-repo_url: https://github.com/sib-swiss/course_website_template
+repo_name: Yiqiao-Zhong/Science-of-LLMs
+repo_url: https://github.com/Yiqiao-Zhong/Science-of-LLMs
 
 markdown_extensions:
   - abbr
