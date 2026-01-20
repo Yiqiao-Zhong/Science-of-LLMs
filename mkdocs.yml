@@ -1,0 +1,37 @@
+site_name: STAT 992--Science of Large Language Models (Spring 2026)
+nav:
+    - Home: index.md
+    - Course schedule: schedule.md
+    - Resources: resources.md
+
+theme:
+  name: material
+  logo: assets/images/uw_logo_2.svg
+  favicon: assets/images/uw_logo_2.svg
+
+# Repository
+repo_name: sib-swiss/course_website_template
+repo_url: https://github.com/sib-swiss/course_website_template
+
+markdown_extensions:
+  - abbr
+  - def_list
+  - footnotes
+  - tables
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - sane_lists
+  - smarty
+  - toc
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+  - javascripts/mathjax.js

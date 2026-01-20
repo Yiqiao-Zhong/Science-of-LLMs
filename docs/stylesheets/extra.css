@@ -1,0 +1,19 @@
+.md-typeset table {
+  font-size: 0.90rem !important;
+}
+
+/* Widen the main content column (affects all pages) */
+.md-grid {
+  max-width: 80rem !important;   /* try 80rem–110rem */
+}
+
+/* Ensure the content area can actually use that width */
+.md-content__inner {
+  max-width: 100% !important;
+}
+
+/* Optional: slightly increase padding */
+.md-typeset table th,
+.md-typeset table td {
+  padding: 0.6em 0.8em;
+}
