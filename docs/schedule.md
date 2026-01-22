@@ -16,8 +16,8 @@ Here is the general outline.
 
 | Week | Date | Topic | Materials | Discussants |
 |---:|---|---|---|---|
-| 1 | Jan 20 | Intro + transformers basics | 🖥️ [L01](assets/slides/lec01.pdf) · 📄 [Reading 1](https://example.com) | 👥 Voluteers? |
-| 1 | Jan 22 | Emergent abilities, prompting and in-context learning | … | … |
+| 1 | Jan 20 | Intro + transformers basics | 🖥️ [L01](assets/slides/lec01.pdf) | [Matthias Katzfuß](https://sites.google.com/view/katzfuss/) and [Maja Waldro](https://pages.stat.wisc.edu/~mrudolph3/) |
+| 1 | Jan 22 | Emergent abilities, prompting and in-context learning | 🖥️ [L01](assets/slides/lec02.pdf) | … |
 | 2 | Jan 27 | Out-of-distribution generalization, induction heads | … | … |
 | 2 | Jan 29 | Chain-of-thought reasoning, reinforecement learning | … | … |
 | 3 | Feb 3 | Linear representation hypothesis, feature superposition | … | … |
