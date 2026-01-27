@@ -16,6 +16,9 @@
 ---
 
 ## Announcements
+!!! info "Jan 27, 2026"
+    We are slightly changing the class format: at each meeting, we will now begin with a discussion of the previous lecture, followed by the new lecture.
+
 !!! info "Jan 20, 2026"
     Welcome! Please check out the schedule and add your info to the [Google doc](https://docs.google.com/document/d/19d_9bRGSy5He_khbVviuLzMzcw1CjqYZ2xUj4CYwAmU/edit?usp=sharing).
 
