@@ -16,6 +16,9 @@
 ---
 
 ## Announcements
+!!! info "Jan 29, 2026"
+    One exciting local event [*AI Meets Society (AIMS) Symposium*](https://cdis.wisc.edu/ai-meets-society-aims-symposium/) is scheduled on February 21st, 2026. Many great faculty and researchers will share perspectives on the future of AI. Consider [registering](https://forms.gle/YQtykqAqGXSfp2rP8) NOW!
+
 !!! info "Jan 27, 2026"
     We are slightly changing the class format: at each meeting, we will now begin with a discussion of the previous lecture, followed by the new lecture.
 
