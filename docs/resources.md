@@ -3,6 +3,7 @@
 ## Basics of deep learning and LLMs
 - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) by [Sebastian Raschka](https://sebastianraschka.com/)
 - [NanoGPT](https://github.com/karpathy/nanoGPT) by Andrey Karpathy - simplest transformer built from scratch
+- Vardan Papyan's [course](https://sites.google.com/view/mat1510) on analysis of deep learning
 
 ## Topics on interpretability and AI safety
 - Overview of [mechanistic interpretability](https://www.neelnanda.io/mechanistic-interpretability/glossary)

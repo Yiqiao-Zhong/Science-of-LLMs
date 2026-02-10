@@ -21,8 +21,8 @@ Here is the general outline.
 | 2 | Jan 27 | Out-of-distribution generalization, induction heads | 🖥️ [L03](assets/slides/lec03.pdf) | [Samuel Yeh](https://mhyeh.github.io/) and [Eva Song](https://www.linkedin.com/in/zhaoyun-song-4120a9347/) |
 | 2 | Jan 29 | Chain-of-thought reasoning, reinforecement learning | 🖥️ [L04](assets/slides/lec04.pdf) | [Paul Kantor](https://en.wikipedia.org/wiki/Paul_B._Kantor) and [Zhiqi Gao](https://zhiqigao2001.github.io/) |
 | 3 | Feb 3 | Linear representation hypothesis, feature superposition | 🖥️ [L05](assets/slides/lec05.pdf) | [Ishita Kakkar](https://ikakkar03.github.io/) and [Sam Baumohl](https://baumohl.dev/) |
-| 3 | Feb 5 | Sparsity and low-rankness | 🖥️ [L06](assets/slides/lec06.pdf) | … |
-| 4 | Feb 10 | Layerwise structures of embeddings | … | … |
+| 3 | Feb 5 | Sparsity and low-rankness | 🖥️ [L06](assets/slides/lec06.pdf) | [Yupeng Zhang](https://www.linkedin.com/in/yupeng2599/) and Peter Zhao |
+| 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | … |
 | 4 | Feb 12 | Reasoning trace and self-reflection | … | … |
 | 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | … | … |
 | 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | … | … |
