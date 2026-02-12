@@ -9,6 +9,7 @@
 - Overview of [mechanistic interpretability](https://www.neelnanda.io/mechanistic-interpretability/glossary)
 - Coefficient giving (formerly Open Philanthropy) - [A call for AI safety research](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/)
 - My research [blogs](https://yiqiao-zhong.github.io/) 
+- [Wisconsin AI Safety Initiative](https://waisi.org/)
 
 
 ## Interviews and perspectives

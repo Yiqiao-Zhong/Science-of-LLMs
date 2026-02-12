@@ -16,6 +16,10 @@
 ---
 
 ## Announcements
+!!! info "Feb 11, 2026"
+    I will be giving a talk "Do LLMs reason as we do? A synthetic study of transformers' learning dynamics for compositions" at [Machine Learning Lunch and Meetings](https://sites.google.com/view/wiscmllm/home) (MLLM) on Feb 17, 2026, starting from 12:15 pm at Morgridge Hall 7560.  
+
+
 !!! info "Jan 29, 2026"
     One exciting local event [*AI Meets Society (AIMS) Symposium*](https://cdis.wisc.edu/ai-meets-society-aims-symposium/) is scheduled on February 21st, 2026. Many great faculty and researchers will share perspectives on the future of AI. Consider [registering](https://forms.gle/YQtykqAqGXSfp2rP8) NOW!
 
