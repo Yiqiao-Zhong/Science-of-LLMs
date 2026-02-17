@@ -24,7 +24,7 @@ Here is the general outline.
 | 3 | Feb 5 | Sparsity and low-rankness | 🖥️ [L06](assets/slides/lec06.pdf) | [Yupeng Zhang](https://www.linkedin.com/in/yupeng2599/) and [Peter Zhao](https://www.linkedin.com/in/peter-xingyu-zhao-b253ab281/) |
 | 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | [Bofeng Cao](https://www.linkedin.com/in/bofengcao/) and [Shixiao Liang](https://catslab.engr.wisc.edu/staff/liang-shixiao/) |
 | 4 | Feb 12 | Reasoning trace and self-reflection | 🖥️ [L08](assets/slides/lec08.pdf) | … |
-| 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | … | … |
+| 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | 🖥️ [L09](assets/slides/lec09.pdf) | … |
 | 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | … | … |
 | 6 | Feb 24 | Causal tracing and circuits (attribution, interpretability) | … | … |
 | 6 | Feb 26 | Leave-one-out, influence functions (robustness, sensitivity analysis) | … | … |
