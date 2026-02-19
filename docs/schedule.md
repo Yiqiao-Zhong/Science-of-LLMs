@@ -23,9 +23,9 @@ Here is the general outline.
 | 3 | Feb 3 | Linear representation hypothesis, feature superposition | 🖥️ [L05](assets/slides/lec05.pdf) | [Ishita Kakkar](https://ikakkar03.github.io/) and [Sam Baumohl](https://baumohl.dev/) |
 | 3 | Feb 5 | Sparsity and low-rankness | 🖥️ [L06](assets/slides/lec06.pdf) | [Yupeng Zhang](https://www.linkedin.com/in/yupeng2599/) and [Peter Zhao](https://www.linkedin.com/in/peter-xingyu-zhao-b253ab281/) |
 | 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | [Bofeng Cao](https://www.linkedin.com/in/bofengcao/) and [Shixiao Liang](https://catslab.engr.wisc.edu/staff/liang-shixiao/) |
-| 4 | Feb 12 | Reasoning trace and self-reflection | 🖥️ [L08](assets/slides/lec08.pdf) | … |
-| 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | 🖥️ [L09](assets/slides/lec09.pdf) | … |
-| 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | … | … |
+| 4 | Feb 12 | Reasoning trace and self-reflection | 🖥️ [L08](assets/slides/lec08.pdf) | [Dian Jin](https://sites.google.com/wisc.edu/frederick-jin/about) and [Keran Chen](https://kchen429.github.io/keranchen.github.io/) |
+| 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | 🖥️ [L09](assets/slides/lec09.pdf) | [Fuxin Wang](https://www.linkedin.com/in/fuxin-wang-1b6641326/?locale=en) and [Jiaqi Tang](https://www.linkedin.com/in/jiaqi-tang-278299293/) |
+| 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | 🖥️ [L10](assets/slides/lec10.pdf) | … |
 | 6 | Feb 24 | Causal tracing and circuits (attribution, interpretability) | … | … |
 | 6 | Feb 26 | Leave-one-out, influence functions (robustness, sensitivity analysis) | … | … |
 | 7 | Mar 3 | Genomics foundation models | … | … |
