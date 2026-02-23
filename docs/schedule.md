@@ -25,9 +25,9 @@ Here is the general outline.
 | 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | [Bofeng Cao](https://www.linkedin.com/in/bofengcao/) and [Shixiao Liang](https://catslab.engr.wisc.edu/staff/liang-shixiao/) |
 | 4 | Feb 12 | Reasoning trace and self-reflection | 🖥️ [L08](assets/slides/lec08.pdf) | [Dian Jin](https://sites.google.com/wisc.edu/frederick-jin/about) and [Keran Chen](https://kchen429.github.io/keranchen.github.io/) |
 | 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | 🖥️ [L09](assets/slides/lec09.pdf) | [Fuxin Wang](https://www.linkedin.com/in/fuxin-wang-1b6641326/?locale=en) and [Jiaqi Tang](https://www.linkedin.com/in/jiaqi-tang-278299293/) |
-| 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | 🖥️ [L10](assets/slides/lec10.pdf) | … |
-| 6 | Feb 24 | Causal tracing and circuits (attribution, interpretability) | … | … |
-| 6 | Feb 26 | Leave-one-out, influence functions (robustness, sensitivity analysis) | … | … |
+| 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | 🖥️ [L10](assets/slides/lec10.pdf) | [Sifan Tao](https://www.sifantao.com/) and [Jin Mu](https://www.linkedin.com/in/jin-mu-987589178/) |
+| 6 | Feb 24 | Causal tracing and circuits (attribution, interpretability) | 🖥️ [L11](assets/slides/lec11.pdf) | [Terence Wang](https://www.linkedin.com/in/tianyang-terence-wang/) and [Jiaxin Ye](https://jiaxin-yeah.github.io/) |
+| 6 | Feb 26 | Sensitivity analysis, influence functions (perturbation, visualization) | 🖥️ [L12](assets/slides/lec12.pdf) | [Quoc Viet Le](https://scholar.google.com/citations?user=9KMALWIAAAAJ&hl=en) and [Shien Zhu](https://www.linkedin.com/in/shien-zhu-8a23762bb/) |
 | 7 | Mar 3 | Genomics foundation models | … | … |
 | 7 | Mar 5 | Watermarking, memorization | … | … |
 
