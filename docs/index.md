@@ -16,6 +16,10 @@
 ---
 
 ## Announcements
+!!! info "Feb 27, 2026"
+    Here is a short [survey](https://forms.gle/FTeqgn3cvL8iLUFZ8) for this course. Please help me improve this course with your comments!
+
+
 !!! info "Feb 11, 2026"
     I will be giving a talk "Do LLMs reason as we do? A synthetic study of transformers' learning dynamics for compositions" at [Machine Learning Lunch and Meetings](https://sites.google.com/view/wiscmllm/home) (MLLM) on Feb 17, 2026, starting from 12:15 pm at Morgridge Hall 7560.  
 

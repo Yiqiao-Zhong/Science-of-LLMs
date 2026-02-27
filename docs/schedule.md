@@ -22,14 +22,14 @@ Here is the general outline.
 | 2 | Jan 29 | Chain-of-thought reasoning, reinforecement learning | 🖥️ [L04](assets/slides/lec04.pdf) | [Paul Kantor](https://en.wikipedia.org/wiki/Paul_B._Kantor) and [Zhiqi Gao](https://zhiqigao2001.github.io/) |
 | 3 | Feb 3 | Linear representation hypothesis, feature superposition | 🖥️ [L05](assets/slides/lec05.pdf) | [Ishita Kakkar](https://ikakkar03.github.io/) and [Sam Baumohl](https://baumohl.dev/) |
 | 3 | Feb 5 | Sparsity and low-rankness | 🖥️ [L06](assets/slides/lec06.pdf) | [Yupeng Zhang](https://www.linkedin.com/in/yupeng2599/) and [Peter Zhao](https://www.linkedin.com/in/peter-xingyu-zhao-b253ab281/) |
-| 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | [Bofeng Cao](https://www.linkedin.com/in/bofengcao/) and [Shixiao Liang](https://catslab.engr.wisc.edu/staff/liang-shixiao/) |
+| 4 | Feb 10 | Layerwise structures of embeddings | 🖥️ [L07](assets/slides/lec07.pdf) | [Bofeng Cao](https://www.linkedin.com/in/bofengcao/) and [Shixiao Liang](https://catslab.engr.wisc.edu/staff/liang-shixiao/) 👥 [D07](assets/slides/dis07.pptx) |
 | 4 | Feb 12 | Reasoning trace and self-reflection | 🖥️ [L08](assets/slides/lec08.pdf) | [Dian Jin](https://dianjin-frederick.github.io/) and [Keran Chen](https://kchen429.github.io/keranchen.github.io/) |
 | 5 | Feb 17 | PCA and factor analysis (steering, model editing, interpretability) | 🖥️ [L09](assets/slides/lec09.pdf) | [Fuxin Wang](https://www.linkedin.com/in/fuxin-wang-1b6641326/?locale=en) and [Jiaqi Tang](https://www.linkedin.com/in/jiaqi-tang-278299293/) |
 | 5 | Feb 19 | Dictionary learning, SAE (feature interpretability) | 🖥️ [L10](assets/slides/lec10.pdf) | [Sifan Tao](https://www.sifantao.com/) and [Jin Mu](https://www.linkedin.com/in/jin-mu-987589178/) |
 | 6 | Feb 24 | Causal tracing and circuits (attribution, interpretability) | 🖥️ [L11](assets/slides/lec11.pdf) | [Terence Wang](https://www.linkedin.com/in/tianyang-terence-wang/) and [Jiaxin Ye](https://jiaxin-yeah.github.io/) |
 | 6 | Feb 26 | Sensitivity analysis, influence functions (perturbation, visualization) | 🖥️ [L12](assets/slides/lec12.pdf) | [Quoc Viet Le](https://scholar.google.com/citations?user=9KMALWIAAAAJ&hl=en) and [Shien Zhu](https://www.linkedin.com/in/shien-zhu-8a23762bb/) |
-| 7 | Mar 3 | Genomics foundation models | … | … |
-| 7 | Mar 5 | Watermarking, memorization | … | … |
+| 7 | Mar 3 | Genomics foundation models | 🖥️ [L13](assets/slides/lec12.pdf) by [Zhexuan Liu](https://www.linkedin.com/in/zhexuan-liu-4bb105227/) | … |
+| 7 | Mar 5 | Proof formalization, singular learning theory | … | [Lark Song](https://math.wisc.edu/graduate-students/) and [Cheng Chen](https://sites.google.com/wisc.edu/chengchen/) |
 
 ---
 
